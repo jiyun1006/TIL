@@ -8,14 +8,14 @@
 
 ## data structure & algorithm   
 
-- <a href="">Map</a>   
+- <a href="https://github.com/jiyun1006/TIL/blob/main/data-structrue%26algorithm/Map.md">Map</a>   
 
 ---   
 
 
 ## algorithm 문제풀이    
 
-- <a href="">신고 결과 받기(2022 kakao)</a>
+- <a href="https://github.com/jiyun1006/TIL/blob/main/algorithm-test/programmers/2022-kakao(repoter).md">신고 결과 받기(2022 kakao)</a>
 
 ---
 

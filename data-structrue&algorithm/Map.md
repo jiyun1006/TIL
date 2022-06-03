@@ -36,5 +36,5 @@
 
 
 ### `프로퍼티를 자주 변경해야 하는 경우에 사용하면 좋다.`
-**ex) <a href="">2022-kakao 신고결과받기 문제 </a>**
+**ex) <a href="https://github.com/jiyun1006/TIL/blob/main/algorithm-test/programmers/2022-kakao(repoter).md">2022-kakao 신고결과받기 문제 </a>**
 
