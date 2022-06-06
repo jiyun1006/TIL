@@ -6,10 +6,12 @@
 
 <br><br>
 
-### 🚀 정규 표현식 문제 모음   
+### 🚀 정규 표현식 문제   
 
-<a href="#">신규 아이디 추천(2021 kakao)</a>
+- <a href="https://github.com/jiyun1006/TIL/blob/main/algorithm-test/programmers/2021-kakao(new_id).md">신규 아이디 추천(2021 kakao)</a>
 
+
+<br>
 
 
 ### 🚀 정규 표현식 문법   
@@ -38,7 +40,7 @@
 |i|대소문자 무시|
 |m|여러줄 매칭|
 
-- 사용은 `/[0-9]/g` 와 같이 사용한다.     
+  - 사용은 `/[0-9]/g` 와 같이 사용한다.     
 
 
 
