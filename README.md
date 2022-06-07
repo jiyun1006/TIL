@@ -21,6 +21,7 @@
 
 - <a href="https://github.com/jiyun1006/TIL/blob/main/algorithm-test/programmers/2021-kakao(new_id).md"> 신규 아이디 추천(2021 kakao) </a>   
 
+- <a href="#"> 문자열 압축(2020 kakao)</a>   
 
 ---
 
@@ -38,6 +39,11 @@
 
 - <a href="https://github.com/jiyun1006/TIL/blob/main/JS/regexp.md">정규 표현식</a>
 
----   
+---    
+
+
+## operating-system   
+
+- <a href="">introduction & OS-structures</a>
 
 
