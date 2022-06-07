@@ -21,7 +21,9 @@
 
 - <a href="https://github.com/jiyun1006/TIL/blob/main/algorithm-test/programmers/2021-kakao(new_id).md"> 신규 아이디 추천(2021 kakao) </a>   
 
-- <a href="#"> 문자열 압축(2020 kakao)</a>   
+- <a href="https://github.com/jiyun1006/TIL/blob/main/algorithm-test/programmers/2020-kakao(str-compress).md"> 문자열 압축(2020 kakao)</a>    
+
+- <a href="https://github.com/jiyun1006/TIL/blob/main/algorithm-test/programmers/2019-kakao(open-chat).md">오픈 채팅방 (2019 kakao)</a>   
 
 ---
 
@@ -44,6 +46,6 @@
 
 ## operating-system   
 
-- <a href="">introduction & OS-structures</a>
+- <a href="https://github.com/jiyun1006/TIL/blob/main/operating-system/introduction%26OS-structures.md">introduction & OS-structures</a>
 
 
