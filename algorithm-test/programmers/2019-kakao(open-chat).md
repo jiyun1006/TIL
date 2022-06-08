@@ -32,4 +32,6 @@ let solution = (record) => {
     
     return answer;
 }
-```
+```   
+
+### <a href="https://github.com/jiyun1006/TIL/blob/main/cs/data-structrue%26algorithm/Map.md">Map 객체</a>

@@ -5,7 +5,7 @@
 
 ## 자료구조 & 알고리즘   
 
-- <a href="">Map 객체</a>
+- <a href="https://github.com/jiyun1006/TIL/blob/main/cs/data-structrue%26algorithm/Map.md">Map 객체</a>
 ---
 
 <br>
@@ -19,6 +19,6 @@
 
 ## 운영체제   
 
-- <a href="">운영체제란?</a>
+- <a href="https://github.com/jiyun1006/TIL/blob/main/cs/operating-system/introduction%26OS-structures.md">운영체제란?</a>
 
 ---
