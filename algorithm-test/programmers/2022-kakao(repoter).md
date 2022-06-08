@@ -90,4 +90,4 @@ function solution(id_list, report, k) {
 ```   
 
 
-### <a href="https://github.com/jiyun1006/TIL/blob/main/data-structrue%26algorithm/Map.md">Map 자료구조</a>
+### <a href="https://github.com/jiyun1006/TIL/blob/main/cs/data-structrue%26algorithm/Map.md">Map 객체</a>

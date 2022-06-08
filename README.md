@@ -18,7 +18,7 @@
 
 ## algorithm 문제풀이   
 
-- <a href="">프로그래머스 문제 모음</a>   
+- <a href="https://github.com/jiyun1006/TIL/blob/main/algorithm-test/programmers/promain.md">프로그래머스 문제 모음</a>   
 
 ---   
 
