@@ -17,4 +17,13 @@
 
 <br>
 
-- <a href="https://github.com/jiyun1006/TIL/blob/main/algorithm-test/programmers/2019-kakao(open-chat).md">2019-kako 오픈 채팅방</a>    
+- <a href="https://github.com/jiyun1006/TIL/blob/main/algorithm-test/programmers/2019-kakao(open-chat).md">2019-kako 오픈 채팅방</a>      
+
+
+<br>
+
+- <a href="https://github.com/jiyun1006/TIL/blob/main/algorithm-test/programmers/2021-kakao(num-str-Enword).md">2021-kakao 숫자 문자열과 영단어</a>   
+
+<br>
+
+- <a href="https://github.com/jiyun1006/TIL/blob/main/algorithm-test/programmers/2019-kakao(puppet-draw).md">2019-kakao 크레인 인형 뽑기</a>
