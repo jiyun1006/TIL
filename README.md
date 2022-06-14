@@ -9,7 +9,7 @@
 
 ## CS
 
-- <a href="https://github.com/jiyun1006/TIL/blob/main/cs/main.md">CS 전공 지식</a>
+- <a href="https://github.com/jiyun1006/TIL/blob/main/cs/main.md">CS</a>
 
 
 ---   
