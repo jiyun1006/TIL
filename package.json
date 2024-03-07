@@ -18,10 +18,8 @@
   "homepage": "https://github.com/jiyun1006/TIL#readme",
   "devDependencies": {
     "eslint": "^8.57.0",
+    "eslint-config-airbnb": "^19.0.4",
     "eslint-config-prettier": "^9.1.0",
     "prettier": "^3.2.5"
-  },
-  "dependencies": {
-    "eslint-config-airbnb": "^19.0.4"
   }
 }
